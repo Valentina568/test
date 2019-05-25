@@ -1,0 +1,44 @@
+.position {
+    background: red;
+    color: aliceblue;
+    width: 250px;
+    float: left;
+}
+.color-td {
+    background: blue;
+}
+.position2 {
+    background: coral;
+    border: 5px double #000000;
+    float: left;
+    margin-left: 500px;
+}
+.col-td {
+    padding: 5px;
+    border: 1px solid #fff;
+}
+.col-th {
+    padding: 5px;
+    border: 1px solid #fff;
+}
+
+.misha {
+    color: red;
+}
+
+.misha:hover {
+    color: cadetblue;
+    text-decoration: underline;
+}
+
+.da {
+    position: relative;
+    left: 100px;
+    top: -40px;
+    opacity: 0;
+}
+
+.opacity:hover .da {
+    opacity: 1;
+}
+
