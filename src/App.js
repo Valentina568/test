@@ -23,45 +23,45 @@ function App() {
         <Class petia={petia}/>
 
 
-            {/*<table className={"position"}>*/}
-            {/*    <tr>*/}
-            {/*        <th>текст заголовка1</th>*/}
-            {/*        <th>текст заголовка2</th>*/}
-            {/*    </tr>*/}
-            {/*    <tr>*/}
-            {/*        <td className={"color-td"}>данные1</td>*/}
-            {/*        <td className={"color-td"}>данные2</td>*/}
-            {/*    </tr>*/}
-            {/*</table>*/}
-            {/*<table className={"position2"}>*/}
-            {/*    <tr>*/}
-            {/*        <th className={"col-th"}>текст заголовка1</th>*/}
-            {/*        <th className={"col-th"}>текст заголовка2</th>*/}
-            {/*    </tr>*/}
-            {/*    <tr>*/}
-            {/*        <td className={"col-td"}>данные1</td>*/}
-            {/*        <td className={"col-td"}>данные2</td>*/}
-            {/*    </tr>*/}
-            {/*</table>*/}
+            <table className={"position"}>
+                <tr>
+                    <th>текст заголовка1</th>
+                    <th>текст заголовка2</th>
+                </tr>
+                <tr>
+                    <td className={"color-td"}>данные1</td>
+                    <td className={"color-td"}>данные2</td>
+                </tr>
+            </table>
+            <table className={"position2"}>
+                <tr>
+                    <th className={"col-th"}>текст заголовка1</th>
+                    <th className={"col-th"}>текст заголовка2</th>
+                </tr>
+                <tr>
+                    <td className={"col-td"}>данные1</td>
+                    <td className={"col-td"}>данные2</td>
+                </tr>
+            </table>
 
-            {/*<div className={"opacity"}>*/}
-            {/*    <p className={"misha"}>Миша какаха.</p>*/}
-            {/*    <p className={"da"}>!!!!</p>*/}
-            {/*</div>*/}
+            <div className={"opacity"}>
+                <p className={"misha"}>Миша какаха.</p>
+                <p className={"da"}>!!!!</p>
+            </div>
 
-            {/*<div>{petia.junaary}</div>*/}
-            {/*{*/}
-            {/*    ivan*/}
-            {/*        .map(chelovek =>*/}
-            {/*        chelovek.age === 23 &&*/}
-            {/*        <div key={chelovek.id}>*/}
-            {/*            <div><h1>{chelovek.id}</h1></div>*/}
-            {/*            <div><h1>{chelovek.age + ' это возраст человека'}</h1></div>*/}
-            {/*            <div><h1>{chelovek.name + ' рррррррррррр'}</h1></div>*/}
-            {/*            {console.log(chelovek.name.includes('1'))}*/}
-            {/*        </div>*/}
-            {/*    )*/}
-            {/*}*/}
+            <div>{petia.junaary}</div>
+            {
+                ivan
+                    .map(chelovek =>
+                    chelovek.age === 23 &&
+                    <div key={chelovek.id}>
+                        <div><h1>{chelovek.id}</h1></div>
+                        <div><h1>{chelovek.age + ' это возраст человека'}</h1></div>
+                        <div><h1>{chelovek.name + ' рррррррррррр'}</h1></div>
+                        {console.log(chelovek.name.includes('1'))}
+                    </div>
+                )
+            }
         </div>
     );
 }
