@@ -1,89 +1,35 @@
-import React from 'react';
-import "./test.css"
-import Class from "./class/Class";
+import React, {Component} from 'react';
+import {Redirect, Route, Router, Switch} from 'react-router-dom'
+import Title from "./components/FirstPage/Title";
+import {history} from './utils/url'
+import Login from "./components/LoginPage/Login";
+import Registration from "./components/RegistrationPage/Registration";
+import Admin from "./components/Admin/Admin";
+import MarketPage from "./components/Market/MarketPage";
+import BasketPage from "./components/Market/Basket/BasketPage"
+import Payment from "./components/Market/Payment";
+import Game from "./components/Game/App";
+import SocialNetwork from "./components/SocialNetwork/SocialNetworkTemplate/SocialNetwork";
+import Test from "./components/Test";
 
-const vasa = ["vasa", "petyia", "kola", "dasha", 12];
-const petia = {id: 555, junaary: "январь", age: 11111};
-const ivan = [{id: 100, name: "vasilii", age: 20, time: 18056561315464},
-    {
-        id: 101,
-        name: "vasilii1",
-        age: 23
-    },
-    {
-        id: 102,
-        name: "vasilii2",
-        age: 27
-    }];
+export default class App extends Component {
+    render() {
+        return <Router history={history}>
+            <Switch>
+                <Route path={'/Title'} component={Title}/>
+                <Route path={'/login'} component={Login}/>
+                <Route path={'/registration'} component={Registration}/>
+                <Route path={'/admin'} component={Admin}/>
+                <Route exact path={'/MarketPage'} component={MarketPage}/>
+                <Route exact path={'/MarketPage/basket'} component={BasketPage}/>
+                <Route path={'/MarketPage/basket/Payment'} component={Payment}/>
+                <Route path={'/Test'} component={Test}/>
+                <Route path={'/Game'} component={Game}/>
+                <Route path={'/SocialNetwork'} component={SocialNetwork}/>
+                <Redirect to={'/login'}/>
 
+            </Switch>
+        </Router>
+    }
 
-function App() {
-    return (
-        <div>
-        <Class petia={petia}/>
-
-
-            <table className={"position"}>
-                <tr>
-                    <th>текст заголовка1</th>
-                    <th>текст заголовка2</th>
-                </tr>
-                <tr>
-                    <td className={"color-td"}>данные1</td>
-                    <td className={"color-td"}>данные2</td>
-                </tr>
-            </table>
-            <table className={"position2"}>
-                <tr>
-                    <th className={"col-th"}>текст заголовка1</th>
-                    <th className={"col-th"}>текст заголовка2</th>
-                </tr>
-                <tr>
-                    <td className={"col-td"}>данные1</td>
-                    <td className={"col-td"}>данные2</td>
-                </tr>
-            </table>
-            <div/><a/>
-            <div/><p/>
-            <div className={"opacity"}>
-                <p className={"misha"}>Миша какаха.</p>
-                <p className={"da"}>!!!!</p>
-            </div>
-
-            <div>{petia.junaary}</div>
-            {
-                ivan
-                    .map(chelovek =>
-                    chelovek.age === 23 &&
-                    <div key={chelovek.id}>
-                        <div><h1>{chelovek.id}</h1></div>
-                        <div><h1>{chelovek.age + ' это возраст человека'}</h1></div>
-                        <div><h1>{chelovek.name + ' рррррррррррр'}</h1></div>
-                        {console.log(chelovek.name.includes('1'))}
-                    </div>
-                )
-            }
-        </div>
-    );
 }
-
-
-// if (чтото = чемуто) {
-//     sdcds
-//     dscsd
-//     dsvsdvs
-//     svddsv
-// }
-// if (чтото = другому) {
-//     делаем другое
-// }
-// else {
-//     asdsad
-// asdasd
-// }
-//
-// чтото === чемуто ? делаем код : делаем другой;
-
-
-
-export default App;

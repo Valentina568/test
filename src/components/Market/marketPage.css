@@ -1,0 +1,131 @@
+.market {
+    background: url("../../pictures/background.jpg");
+}
+.market-body {
+     margin: 0;
+     width: 100%;
+     overflow: hidden;
+ }
+.product {
+    float: left;
+    width: 28%;
+    padding: 20px;
+    border: 0.5px solid #022a5e;
+    border-radius:20px 20px;
+    background-color: rgba(255, 255, 255, 0.5);
+    margin: 10px 20px 50px 10px;
+}
+
+.product-body {
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.discription {
+    margin-top: 12%;
+}
+.product-label {
+    color: #022a5e;
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 150%;
+    font-weight: bold;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
+
+.price{
+    font-size: x-large;
+}
+.img {
+    width: 250px;
+    float: left;
+    margin-top: -5px;
+    border-radius:20px 20px;
+}
+.buttons{
+    top: 15px;
+    position: relative;
+}
+.basket{
+    width: 30px;
+}
+.buttonInBasket{
+    position: absolute;
+    right: 0;
+    margin-bottom: 28%;
+    margin-right: 9%;
+    width: 50px;
+    background: white;
+    border-radius: 10px ;
+    border-width: 3px;
+    border-color: #022a5e;
+}
+.buttonBasket {
+    margin-top: 6%;
+    border: none;
+    background: #022a5e;
+    color: #f2f2f2;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    transition: all 500ms ease;
+}
+.buttonBasket:hover {
+    background: rgba(0,0,0,0);
+    color:#022a5e ;
+    box-shadow: inset 0 0 0 3px #022a5e;
+}
+.buttonBasketPlus {
+    position: relative;
+    left: 10px;
+    border: none;
+    background: #022a5e;
+    color: #f2f2f2;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    transition: all 500ms ease;
+}
+.buttonBasketPlus:hover {
+    background: rgba(0,0,0,0);
+    color:#022a5e ;
+    box-shadow: inset 0 0 0 3px #022a5e;
+}
+.buttonBasketMinus {
+    position: relative;
+    right:  10px;
+    border: none;
+    background: #022a5e;
+    color: #f2f2f2;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    transition: all 500ms ease;
+}
+.buttonBasketMinus:hover {
+    background: rgba(0,0,0,0);
+    color:#022a5e ;
+    box-shadow: inset 0 0 0 3px #022a5e;
+}
+.urna{
+    width: 30px;
+}
+
+.pagination-position {
+    margin-left: 36%;
+    position: relative;
+    bottom: 22px;
+}
+
+.market-title {
+    font-size: 50px;
+    text-align: center;
+    font-style: italic;
+}

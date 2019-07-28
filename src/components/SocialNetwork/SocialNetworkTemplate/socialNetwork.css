@@ -1,0 +1,49 @@
+.background-social-network{
+background: url("../../../pictures/digital_art-23533.png");
+    overflow: hidden;
+    height: 1200px;
+}
+.social-network-sidebar{
+    width: 50px;
+    height: 300px;
+    border: black 1px solid;
+    float: left;
+    margin-left: 22%;
+    margin-top: 1%;
+border-radius: 20px;
+}
+.social-network-exit-button{
+    position: absolute;
+    right: 0;
+    margin-right: 21.5%;
+    bottom: 0;
+    margin-bottom: 47.4%;
+}
+.title-button{
+    margin-top: 15px;
+    margin-left: 11px;
+}
+.chat-button {
+    margin-top: 15px;
+    margin-left: 11px;
+}
+.video-button{
+    margin-top: 15px;
+    margin-left: 11px;
+}
+.photo-button{
+    margin-top: 15px;
+    margin-left: 11px;
+}
+.music-button{
+    margin-top: 15px;
+    margin-left: 11px;
+}
+.setting-button{
+    margin-top: 15px;
+    margin-left: 11px;
+}
+.game-button{
+    margin-top: 15px;
+    margin-left: 11px;
+}

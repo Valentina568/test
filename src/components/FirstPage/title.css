@@ -1,0 +1,45 @@
+.title{
+    background: url("../../pictures/kit.jpg");
+    height: 969px;
+    background-size: cover;
+    -moz-background-size: 100%;
+    padding-top: 25%;
+}
+.button-market {
+    float: left;
+    height: 150px;
+    margin-top: -170px;
+    margin-left: 100px;
+    border-radius: 0 20px;
+    background: #022a5e;
+    padding: 60px;
+    color: white;
+    font-size: 25px;
+    width: 350px;
+    cursor: pointer;
+    animation: spin 2s linear;
+}
+@keyframes spin {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+}
+.button-market:hover{
+    background-color: rgba(255, 255, 255, 0.5);
+    color: #022a5e;
+    border: 5px solid #022a5e
+}
+
+.socialNetwork-button{
+    margin-left: 30%;
+    float: left;
+    height: 150px;
+    margin-top: -170px;
+    border-radius: 0 20px;
+    background: #022a5e;
+    padding: 60px;
+    color: white;
+    font-size: 25px;
+    width: 350px;
+    cursor: pointer;
+    animation: spin 2s linear;
+}

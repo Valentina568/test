@@ -1,0 +1,26 @@
+.chat-page-top-body{
+    margin-top: 20px;
+    width: 50%;
+    height: 900px;
+    border: black 1px solid;
+    margin-left: 25% ;
+    border-radius: 20px;
+    background-color: white;
+    opacity: 0.9;
+}
+.textarea-area{
+   width: 50%;
+    margin-left: 5%;
+    margin-top: 20px;
+}
+.text{
+    max-height: 85%;
+    overflow-y: auto;
+    height: 85%;
+    border: black 1px solid;
+    border-radius: 20px;
+    padding: 1px;
+    width: 40%;
+    margin-top: 20px;
+    margin-left: 5%;
+}

@@ -3,9 +3,21 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bootstrap": "3.3.7",
+    "history": "^4.9.0",
+    "lodash": "latest",
+    "moment": "^2.24.0",
+    "rc-pagination": "^1.20.1",
     "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-scripts": "3.0.0"
+    "react-bootstrap": "^1.0.0-beta.9",
+    "react-dom": "16.8.6",
+    "react-icons": "^3.7.0",
+    "react-js-pagination": "^3.0.2",
+    "react-redux": "latest",
+    "react-router-dom": "latest",
+    "react-scripts": "3.0.0",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -16,16 +28,11 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
+  "browserslist": [
+    "last 2 versions",
+    "not dead"
+  ],
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.9.0"
   }
 }

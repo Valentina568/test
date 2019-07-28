@@ -2,7 +2,102 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="719cab79-f6ee-4dc2-876f-09fb71a79eab" name="Default Changelist" comment="git fix">
+      <change afterPath="$PROJECT_DIR$/src/components/Admin/Admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FirstPage/Title.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FirstPage/title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Game/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Game/Food.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Game/Game.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Game/Snake.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Game/game.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LoginPage/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LoginPage/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Market/Basket/BasketModal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Market/Basket/BasketPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Market/Basket/basket-page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Market/MarketPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Market/Payment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Market/marketPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Market/payment.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/RegistrationPage/Registration.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/RegistrationPage/RegistrationModal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/RegistrationPage/registration.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SocialNetwork/ChatPage/ChatPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SocialNetwork/ChatPage/chatPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SocialNetwork/GamesPage/GamesPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SocialNetwork/GamesPage/gamesPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SocialNetwork/MusicPage/MusicPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SocialNetwork/MusicPage/musicPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SocialNetwork/PhotoPage/PhotoPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SocialNetwork/PhotoPage/photoPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SocialNetwork/SettingsPage/SettingsPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SocialNetwork/SettingsPage/settingsPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SocialNetwork/SocialNetworkTemplate/SocialNetwork.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SocialNetwork/SocialNetworkTemplate/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SocialNetwork/SocialNetworkTemplate/socialNetwork.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SocialNetwork/TitlePage/TitlePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SocialNetwork/TitlePage/title-page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SocialNetwork/VideoPage/VideoPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SocialNetwork/VideoPage/videoPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ducks/ducks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ducks/market.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/556374649740865.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/8270.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/HTB1K3azKXXXXXaIXXXXq6xXFXXXR.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/SHOPPINGCART.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/SHOPPINGCART2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/SHOPPINGCART3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/Stefany.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/avatar/boy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/avatar/cat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/avatar/crop.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/avatar/girl1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/avatar/girl2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/avatar/girl3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/avatar/girl4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/avatar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/avatar/man.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/avatar/man2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/avatar/man3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/backgroundBusket.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/boy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/digital_art-23533.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/e1b4007c71942a0c007b8e1b1a99476c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/kit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/leopard_aggression_teeth_face_72763_1920x1080.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/polygon-abstraction-mountain-landscape-geometric-abstraction-mountains.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/product/eighthProduct.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/product/fifthProduct.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/product/firstProduct.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/product/fourthProduct.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/product/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/product/ninthProduct.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/product/secondProduct.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/product/seventhProduct.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/product/sixthProduct.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/product/tenthProduct.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/product/thirdProduct.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/s1200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pictures/urna.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/props/avatarLets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/props/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/props/lets.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/props/lets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/url.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake-game/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class/Class.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class/class.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pictures/sun.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.css" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,10 +111,43 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/App.js">
+        <entry file="file://$PROJECT_DIR$/src/components/Market/MarketPage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="969">
-              <caret line="57" column="43" lean-forward="true" selection-start-line="57" selection-start-column="43" selection-end-line="57" selection-end-column="43" />
+            <state relative-caret-position="278">
+              <caret line="23" column="113" lean-forward="true" selection-start-line="23" selection-start-column="95" selection-end-line="23" selection-end-column="113" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/RegistrationPage/Registration.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="218">
+              <caret line="68" column="111" selection-start-line="68" selection-start-column="111" selection-end-line="68" selection-end-column="111" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/RegistrationPage/registration.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-378">
+              <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/RegistrationPage/RegistrationModal.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -28,84 +156,33 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/src/components/Admin/Admin.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="20" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="10" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/class/class.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pictures/sun.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/App.test.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="-1638">
               <folding>
-                <element signature="e#0#26#0" expanded="true" />
+                <element signature="e#0#39#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/index.html">
+        <entry file="file://$PROJECT_DIR$/src/components/Market/Basket/BasketPage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+            <state relative-caret-position="126">
+              <caret line="45" column="52" selection-start-line="45" selection-start-column="52" selection-end-line="45" selection-end-column="52" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.js">
+        <entry file="file://$PROJECT_DIR$/src/components/Market/Basket/basket-page.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="168">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -115,10 +192,41 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>asset-</find>
+      <find>trash</find>
+      <find>Trash</find>
+      <find>edit</find>
+      <find>baske</find>
+      <find>displa</find>
+      <find>30%</find>
+      <find>mouse</find>
+      <find>margin: 8px;</find>
+      <find>img</find>
+      <find>onHide</find>
+      <find>border-b</find>
+      <find>item-active</find>
+      <find>active</find>
+      <find>basketProduct</find>
+      <find>product-in-basket</find>
+      <find>250</find>
+      <find>2db7f5</find>
+      <find>.rc-pagination-item-active</find>
+      <find>addUserNick</find>
+      <find>userName</find>
+      <find>&lt;MarketPage</find>
+      <find>updateProduct</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\valyu\WebstormProjects\test\node_modules\bootstrap\dist\css</dir>
+      <dir>C:\Users\valyu\WebstormProjects\test\node_modules</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -131,28 +239,69 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/index.js" />
-        <option value="$PROJECT_DIR$/src/App.test.js" />
-        <option value="$PROJECT_DIR$/public/index.html" />
-        <option value="$PROJECT_DIR$/src/test.css" />
-        <option value="$PROJECT_DIR$/src/Class.js" />
-        <option value="$PROJECT_DIR$/src/class/class.css" />
-        <option value="$PROJECT_DIR$/public/manifest.json" />
-        <option value="$PROJECT_DIR$/src/class/Class.js" />
-        <option value="$PROJECT_DIR$/src/file.js" />
+        <option value="$PROJECT_DIR$/src/components/SocialNetwork/socialNetwork.css" />
+        <option value="$PROJECT_DIR$/src/components/SocialNetwork/SocialNetworkTemplate/title-page.css" />
+        <option value="$PROJECT_DIR$/src/components/SocialNetwork/SocialNetwork.js" />
+        <option value="$PROJECT_DIR$/src/components/SocialNetwork/VidePage/videoPage.css" />
+        <option value="$PROJECT_DIR$/src/components/SocialNetwork/PhotoPage/photoPage.css" />
+        <option value="$PROJECT_DIR$/src/components/SocialNetwork/MusicPage/musicPage.css" />
+        <option value="$PROJECT_DIR$/src/components/SocialNetwork/SettingsPage/settingsPage.css" />
+        <option value="$PROJECT_DIR$/src/components/SocialNetwork/GamesPage/gamesPage.css" />
+        <option value="$PROJECT_DIR$/src/components/SocialNetwork/SocialNetworkTemplate/index.js" />
+        <option value="$PROJECT_DIR$/src/components/SocialNetwork/VidePage/VideoPage.js" />
+        <option value="$PROJECT_DIR$/src/components/SocialNetwork/PhotoPage/PhotoPage.js" />
+        <option value="$PROJECT_DIR$/src/components/SocialNetwork/MusicPage/MusicPage.js" />
+        <option value="$PROJECT_DIR$/src/components/SocialNetwork/SettingsPage/SettingsPage.js" />
+        <option value="$PROJECT_DIR$/src/components/SocialNetwork/GamesPage/GamesPage.js" />
+        <option value="$PROJECT_DIR$/src/components/SocialNetwork/SocialNetworkTemplate/SocialNetwork.js" />
+        <option value="$PROJECT_DIR$/src/components/SocialNetwork/TitlePage/title-page.css" />
+        <option value="$PROJECT_DIR$/src/components/SocialNetwork/ChatPage/chatPage.css" />
+        <option value="$PROJECT_DIR$/src/components/SocialNetwork/SocialNetworkTemplate/socialNetwork.css" />
+        <option value="$PROJECT_DIR$/src/components/SocialNetwork/TitlePage/TitlePage.js" />
+        <option value="$PROJECT_DIR$/src/pictures/product/index.js" />
+        <option value="$PROJECT_DIR$/src/pictures/avatar/avatarIndex.js" />
+        <option value="$PROJECT_DIR$/src/props/lets.js" />
+        <option value="$PROJECT_DIR$/src/props/avatarLets.js" />
+        <option value="$PROJECT_DIR$/src/props/lets.css" />
+        <option value="$PROJECT_DIR$/snake-game/src/App.js" />
+        <option value="$PROJECT_DIR$/src/components/LoginPage/login.css" />
+        <option value="$PROJECT_DIR$/src/components/Game/Snake.js" />
+        <option value="$PROJECT_DIR$/src/components/Game/game.css" />
         <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/components/Game/Game.js" />
+        <option value="$PROJECT_DIR$/src/components/Game/Food.js" />
+        <option value="$PROJECT_DIR$/src/components/FirstPage/title.css" />
+        <option value="$PROJECT_DIR$/src/components/SocialNetwork/ChatPage/ChatPage.js" />
+        <option value="$PROJECT_DIR$/src/ducks/ducks.js" />
+        <option value="$PROJECT_DIR$/src/components/LoginPage/Login.js" />
+        <option value="$PROJECT_DIR$/src/components/Game/App.js" />
+        <option value="$PROJECT_DIR$/src/components/FirstPage/Title.js" />
+        <option value="$PROJECT_DIR$/src/components/Test.js" />
+        <option value="$PROJECT_DIR$/src/components/Market/marketPage.css" />
+        <option value="$PROJECT_DIR$/src/components/Market/MarketPage.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/ducks/market.js" />
+        <option value="$PROJECT_DIR$/src/components/Market/Basket/BasketModal.js" />
+        <option value="$PROJECT_DIR$/src/components/Market/Basket/basket-page.css" />
+        <option value="$PROJECT_DIR$/src/components/Market/Basket/payment.css" />
+        <option value="$PROJECT_DIR$/src/components/Market/Basket/BasketPage.js" />
+        <option value="$PROJECT_DIR$/src/components/Market/Payment.js" />
+        <option value="$PROJECT_DIR$/src/components/Market/payment.css" />
+        <option value="$PROJECT_DIR$/src/components/RegistrationPage/Registration.js" />
+        <option value="$PROJECT_DIR$/src/components/RegistrationPage/registration.css" />
+        <option value="$PROJECT_DIR$/src/components/RegistrationPage/RegistrationModal.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="20" />
+    <option name="x" value="179" />
+    <option name="y" value="85" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -168,21 +317,104 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
             <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\valyu\WebstormProjects\test" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="test" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\valyu\WebstormProjects\test" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="public" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="test" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\valyu\WebstormProjects\test" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="test" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\valyu\WebstormProjects\test" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="test" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\valyu\WebstormProjects\test" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Admin" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="test" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\valyu\WebstormProjects\test" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="FirstPage" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="test" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\valyu\WebstormProjects\test" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="LoginPage" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="test" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\valyu\WebstormProjects\test" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Market" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="test" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\valyu\WebstormProjects\test" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Market" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Basket" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="test" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\valyu\WebstormProjects\test" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="RegistrationPage" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="test" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\valyu\WebstormProjects\test" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ducks" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="test" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\valyu\WebstormProjects\test" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="pictures" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="test" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\valyu\WebstormProjects\test" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="store" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -193,12 +425,16 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.1.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\valyu\WebstormProjects\test\src" />
-      <recent name="C:\Users\valyu\WebstormProjects\test\src\class" />
-      <recent name="C:\Users\valyu\WebstormProjects\test\src\papka" />
+      <recent name="C:\Users\valyu\WebstormProjects\test\src\components\MarketPage" />
+      <recent name="C:\Users\valyu\WebstormProjects\test\src\components\SocialNetwork\ChatPage" />
+      <recent name="C:\Users\valyu\WebstormProjects\test\src\components\SocialNetwork\SocialNetworkTemplate" />
+      <recent name="C:\Users\valyu\WebstormProjects\test\src\components\SocialNetwork\TitlePage" />
+      <recent name="C:\Users\valyu\WebstormProjects\test\src\components\Market\Basket" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -248,6 +484,36 @@
       <workItem from="1558811799031" duration="934000" />
       <workItem from="1558813097814" duration="343000" />
       <workItem from="1558816965293" duration="597000" />
+      <workItem from="1559158791299" duration="4097000" />
+      <workItem from="1559316701148" duration="7208000" />
+      <workItem from="1559418226282" duration="22735000" />
+      <workItem from="1559825201627" duration="599000" />
+      <workItem from="1559835624846" duration="1297000" />
+      <workItem from="1559844339013" duration="928000" />
+      <workItem from="1559846587509" duration="17355000" />
+      <workItem from="1561050469657" duration="20040000" />
+      <workItem from="1561198738763" duration="11250000" />
+      <workItem from="1561285607484" duration="8715000" />
+      <workItem from="1561363300453" duration="22585000" />
+      <workItem from="1561989835310" duration="10139000" />
+      <workItem from="1562235891166" duration="42804000" />
+      <workItem from="1562581891755" duration="1767000" />
+      <workItem from="1562584785649" duration="17637000" />
+      <workItem from="1562652578222" duration="13673000" />
+      <workItem from="1562787885889" duration="6925000" />
+      <workItem from="1562835493110" duration="23790000" />
+      <workItem from="1562925798484" duration="17834000" />
+      <workItem from="1563020833736" duration="11373000" />
+      <workItem from="1563184614472" duration="12316000" />
+      <workItem from="1563215242752" duration="6347000" />
+      <workItem from="1563301712155" duration="4256000" />
+      <workItem from="1563359104029" duration="5286000" />
+      <workItem from="1563471158247" duration="3185000" />
+      <workItem from="1563892664849" duration="1201000" />
+      <workItem from="1563976526328" duration="5822000" />
+      <workItem from="1564049780816" duration="7855000" />
+      <workItem from="1564222880162" duration="6619000" />
+      <workItem from="1564308557506" duration="11807000" />
     </task>
     <task id="LOCAL-00001" summary="добавила таблицу">
       <created>1558815437355</created>
@@ -274,28 +540,29 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37211000" />
+    <option name="totallyTimeSpent" value="364656000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.113804005" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30985916" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947312" visible="true" weight="0.23726977" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50052685" side_tool="true" weight="0.22426869" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49947312" weight="0.39328277" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -310,95 +577,389 @@
     <option name="LAST_COMMIT_MESSAGE" value="git fix" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/App.css" />
-    <entry file="file://$PROJECT_DIR$/src/index.css" />
-    <entry file="file://$PROJECT_DIR$/src/logo.svg" />
-    <entry file="file://$PROJECT_DIR$/src/serviceWorker.js" />
-    <entry file="file://$PROJECT_DIR$/public/favicon.ico" />
-    <entry file="file://$PROJECT_DIR$/public/manifest.json" />
-    <entry file="file://$PROJECT_DIR$/src/file.js" />
-    <entry file="file://$PROJECT_DIR$/src/class/Class.js">
+    <entry file="file://$PROJECT_DIR$/src/components/SocialNetwork/MusicPage/MusicPage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="25" column="110" selection-start-line="25" selection-start-column="110" selection-end-line="25" selection-end-column="110" />
+        <state relative-caret-position="63">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.js">
+    <entry file="file://$PROJECT_DIR$/src/components/SocialNetwork/SettingsPage/SettingsPage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="57" column="43" lean-forward="true" selection-start-line="57" selection-start-column="43" selection-end-line="57" selection-end-column="43" />
+        <state relative-caret-position="147">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
           <folding>
-            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+    <entry file="file://$PROJECT_DIR$/src/components/SocialNetwork/TitlePage/title-page.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+        <state relative-caret-position="189">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/src/components/SocialNetwork/ChatPage/chatPage.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="10" />
+        <state relative-caret-position="273">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test.css">
+    <entry file="file://$PROJECT_DIR$/src/components/SocialNetwork/GamesPage/gamesPage.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/SocialNetwork/SocialNetworkTemplate/socialNetwork.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="27" />
+        <state relative-caret-position="168">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/class/class.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pictures/sun.jpg">
+    <entry file="file://$PROJECT_DIR$/src/pictures/product/eighthProduct.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.test.js">
+    <entry file="file://$PROJECT_DIR$/src/pictures/product/ninthProduct.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pictures/product/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="231">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pictures/avatar/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="8" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="22" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/props/lets.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="92" lean-forward="true" selection-start-line="5" selection-start-column="91" selection-end-line="5" selection-end-column="94" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/props/avatarLets.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/props/lets.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snake-game/src/App.css" />
+    <entry file="file://$PROJECT_DIR$/snake-game/src/App.js" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/SocialNetwork/TitlePage/TitlePage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/SocialNetwork/SocialNetworkTemplate/SocialNetwork.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-42">
+          <caret line="2" column="60" selection-start-line="2" selection-start-column="60" selection-end-line="2" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/SocialNetwork/SocialNetworkTemplate/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/SocialNetwork/GamesPage/GamesPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/url.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Game/Game.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Game/Food.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Game/Snake.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Game/game.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/FirstPage/title.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/SocialNetwork/ChatPage/ChatPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="43" column="16" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Game/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="25" column="39" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/FirstPage/Title.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="53" column="56" selection-start-line="53" selection-start-column="56" selection-end-line="53" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ducks/ducks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="34" column="45" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        <state relative-caret-position="231">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <element signature="n#style#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
+    <entry file="file://$PROJECT_DIR$/src/components/Market/Basket/BasketModal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        <state relative-caret-position="231">
+          <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ducks/market.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5">
+          <caret line="107" column="16" selection-start-line="107" selection-start-column="16" selection-end-line="107" selection-end-column="16" />
+          <folding>
+            <element signature="e#15#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pictures/urna.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Market/marketPage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="292" column="8" selection-start-line="292" selection-start-column="8" selection-end-line="292" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Market/Basket/payment.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/LoginPage/Login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="36" column="108" lean-forward="true" selection-start-line="36" selection-start-column="108" selection-end-line="36" selection-end-column="108" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/LoginPage/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="41" column="40" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="41" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Market/MarketPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="23" column="113" lean-forward="true" selection-start-line="23" selection-start-column="95" selection-end-line="23" selection-end-column="113" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Market/Payment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="53" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Market/payment.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="40" column="1" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="40" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Market/Basket/basket-page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Market/Basket/BasketPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="45" column="52" selection-start-line="45" selection-start-column="52" selection-end-line="45" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/RegistrationPage/Registration.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="68" column="111" selection-start-line="68" selection-start-column="111" selection-end-line="68" selection-end-column="111" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/RegistrationPage/registration.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-378">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/RegistrationPage/RegistrationModal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/src/components/Admin/Admin.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="20" selection-end-column="14" />
+        <state relative-caret-position="-1638">
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
